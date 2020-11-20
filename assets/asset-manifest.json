@@ -1,218 +1,166 @@
 {
   "files": {
-    "vendors~dates-table-view~tickets-table-view.js": "/static/js/vendors~dates-table-view~tickets-table-view.13e71edd.chunk.js",
-    "vendors~dates-table-view~tickets-table-view.js.map": "/static/js/vendors~dates-table-view~tickets-table-view.13e71edd.chunk.js.map",
-    "adapters.css": "/static/css/adapters.838b22b3.css",
-    "adapters.js": "/static/js/adapters.08815d4e.js",
-    "adapters.js.map": "/static/js/adapters.08815d4e.js.map",
-    "adapters.php": "/static/js/adapters.064c33b8.asset.php",
-    "blocks.css": "/static/css/blocks.2f5a366a.css",
-    "blocks.js": "/static/js/blocks.181915fe.js",
-    "blocks.js.map": "/static/js/blocks.181915fe.js.map",
-    "blocks.php": "/static/js/blocks.0c76c5a5.asset.php",
-    "components.css": "/static/css/components.ab86571e.css",
-    "components.js": "/static/js/components.36a58beb.js",
-    "components.js.map": "/static/js/components.36a58beb.js.map",
-    "components.php": "/static/js/components.cd0f81d4.asset.php",
-    "constants.js": "/static/js/constants.ce5c8972.js",
-    "constants.js.map": "/static/js/constants.ce5c8972.js.map",
-    "constants.php": "/static/js/constants.9db30cf6.asset.php",
-    "data.js": "/static/js/data.243c9333.js",
-    "data.js.map": "/static/js/data.243c9333.js.map",
-    "data.php": "/static/js/data.596a8cb3.asset.php",
-    "dates.css": "/static/css/dates.1070384d.css",
-    "dates.js": "/static/js/dates.4cf1691a.js",
-    "dates.js.map": "/static/js/dates.4cf1691a.js.map",
-    "dates.php": "/static/js/dates.c071e07d.asset.php",
-    "dates-card-view.js": "/static/js/dates-card-view.24498799.chunk.js",
-    "dates-card-view.js.map": "/static/js/dates-card-view.24498799.chunk.js.map",
-    "dates-table-view.css": "/static/css/dates-table-view.549f560e.chunk.css",
-    "dates-table-view.js": "/static/js/dates-table-view.0f12fe10.chunk.js",
-    "dates-table-view.js.map": "/static/js/dates-table-view.0f12fe10.chunk.js.map",
-    "edtrServices.js": "/static/js/edtrServices.8ea600cd.js",
-    "edtrServices.js.map": "/static/js/edtrServices.8ea600cd.js.map",
-    "edtrServices.php": "/static/js/edtrServices.25bd5ad0.asset.php",
-    "eventEditor.css": "/static/css/eventEditor.a86ebfe4.css",
-    "eventEditor.js": "/static/js/eventEditor.0f8c772d.js",
-    "eventEditor.js.map": "/static/js/eventEditor.0f8c772d.js.map",
-    "eventEditor.php": "/static/js/eventEditor.414e4b96.asset.php",
-    "events.js": "/static/js/events.062fbb4c.js",
-    "events.js.map": "/static/js/events.062fbb4c.js.map",
-    "events.php": "/static/js/events.ed3cea01.asset.php",
-    "form.css": "/static/css/form.16e57aea.css",
-    "form.js": "/static/js/form.dcf0495f.js",
-    "form.js.map": "/static/js/form.dcf0495f.js.map",
-    "form.php": "/static/js/form.752d7b8b.asset.php",
-    "helpers.js": "/static/js/helpers.e68e4669.js",
-    "helpers.js.map": "/static/js/helpers.e68e4669.js.map",
-    "helpers.php": "/static/js/helpers.47313341.asset.php",
-    "hooks.js": "/static/js/hooks.c96b94e5.js",
-    "hooks.js.map": "/static/js/hooks.c96b94e5.js.map",
-    "hooks.php": "/static/js/hooks.9a1bbf87.asset.php",
-    "i18n.js": "/static/js/i18n.33313a36.js",
-    "i18n.js.map": "/static/js/i18n.33313a36.js.map",
-    "i18n.php": "/static/js/i18n.30275bc1.asset.php",
-    "predicates.js": "/static/js/predicates.250b7fef.js",
-    "predicates.js.map": "/static/js/predicates.250b7fef.js.map",
-    "predicates.php": "/static/js/predicates.f5fd11c4.asset.php",
-    "registry.js": "/static/js/registry.7cf24e4f.js",
-    "registry.js.map": "/static/js/registry.7cf24e4f.js.map",
-    "registry.php": "/static/js/registry.2cc7b7b2.asset.php",
-    "rem.css": "/static/css/rem.c77b1b1f.css",
-    "rem.js": "/static/js/rem.3e9b4e68.js",
-    "rem.js.map": "/static/js/rem.3e9b4e68.js.map",
-    "rem.php": "/static/js/rem.d073ad7d.asset.php",
-    "richTextEditor.css": "/static/css/richTextEditor.9cace8fa.css",
-    "richTextEditor.js": "/static/js/richTextEditor.05c59096.js",
-    "richTextEditor.js.map": "/static/js/richTextEditor.05c59096.js.map",
-    "richTextEditor.php": "/static/js/richTextEditor.d3818788.asset.php",
-    "rruleGenerator.css": "/static/css/rruleGenerator.c78e324b.css",
-    "rruleGenerator.js": "/static/js/rruleGenerator.815f0ed7.js",
-    "rruleGenerator.js.map": "/static/js/rruleGenerator.815f0ed7.js.map",
-    "rruleGenerator.php": "/static/js/rruleGenerator.ec7f2a4c.asset.php",
-    "services.js": "/static/js/services.a9c40266.js",
-    "services.js.map": "/static/js/services.a9c40266.js.map",
-    "services.php": "/static/js/services.ada2a12b.asset.php",
-    "storage.js": "/static/js/storage.df677a95.js",
-    "storage.js.map": "/static/js/storage.df677a95.js.map",
-    "storage.php": "/static/js/storage.bb3f6043.asset.php",
-    "styles.js": "/static/js/styles.e146823c.js",
-    "styles.js.map": "/static/js/styles.e146823c.js.map",
-    "styles.php": "/static/js/styles.bba73692.asset.php",
-    "tickets-card-view.js": "/static/js/tickets-card-view.a387aec9.chunk.js",
-    "tickets-card-view.js.map": "/static/js/tickets-card-view.a387aec9.chunk.js.map",
-    "tickets-table-view.css": "/static/css/tickets-table-view.2a778a4d.chunk.css",
-    "tickets-table-view.js": "/static/js/tickets-table-view.d6d5d441.chunk.js",
-    "tickets-table-view.js.map": "/static/js/tickets-table-view.d6d5d441.chunk.js.map",
-    "toaster.css": "/static/css/toaster.154f9f25.css",
-    "toaster.js": "/static/js/toaster.eb2f4269.js",
-    "toaster.js.map": "/static/js/toaster.eb2f4269.js.map",
-    "toaster.php": "/static/js/toaster.265aaf1f.asset.php",
-    "tpc.css": "/static/css/tpc.8ef32303.css",
-    "tpc.js": "/static/js/tpc.4dd2cf0e.js",
-    "tpc.js.map": "/static/js/tpc.4dd2cf0e.js.map",
-    "tpc.php": "/static/js/tpc.f926e309.asset.php",
-    "utils.js": "/static/js/utils.e9443891.js",
-    "utils.js.map": "/static/js/utils.e9443891.js.map",
-    "utils.php": "/static/js/utils.99e9e322.asset.php",
-    "wpPluginsPage.css": "/static/css/wpPluginsPage.880a0b20.css",
-    "wpPluginsPage.js": "/static/js/wpPluginsPage.5846ae99.js",
-    "wpPluginsPage.js.map": "/static/js/wpPluginsPage.5846ae99.js.map",
-    "wpPluginsPage.php": "/static/js/wpPluginsPage.cab7f77c.asset.php",
-    "static/css/adapters.838b22b3.css.map": "/static/css/adapters.838b22b3.css.map",
-    "static/css/blocks.2f5a366a.css.map": "/static/css/blocks.2f5a366a.css.map",
-    "static/css/components.ab86571e.css.map": "/static/css/components.ab86571e.css.map",
-    "static/css/dates-table-view.549f560e.chunk.css.map": "/static/css/dates-table-view.549f560e.chunk.css.map",
-    "static/css/dates.1070384d.css.map": "/static/css/dates.1070384d.css.map",
-    "static/css/eventEditor.a86ebfe4.css.map": "/static/css/eventEditor.a86ebfe4.css.map",
-    "static/css/form.16e57aea.css.map": "/static/css/form.16e57aea.css.map",
-    "static/css/rem.c77b1b1f.css.map": "/static/css/rem.c77b1b1f.css.map",
-    "static/css/richTextEditor.9cace8fa.css.map": "/static/css/richTextEditor.9cace8fa.css.map",
-    "static/css/rruleGenerator.c78e324b.css.map": "/static/css/rruleGenerator.c78e324b.css.map",
-    "static/css/tickets-table-view.2a778a4d.chunk.css.map": "/static/css/tickets-table-view.2a778a4d.chunk.css.map",
-    "static/css/toaster.154f9f25.css.map": "/static/css/toaster.154f9f25.css.map",
-    "static/css/tpc.8ef32303.css.map": "/static/css/tpc.8ef32303.css.map",
-    "static/css/wpPluginsPage.880a0b20.css.map": "/static/css/wpPluginsPage.880a0b20.css.map",
-    "static/js/adapters.08815d4e.js.LICENSE.txt": "/static/js/adapters.08815d4e.js.LICENSE.txt",
-    "static/js/components.36a58beb.js.LICENSE.txt": "/static/js/components.36a58beb.js.LICENSE.txt",
-    "static/js/data.243c9333.js.LICENSE.txt": "/static/js/data.243c9333.js.LICENSE.txt",
-    "static/js/dates.4cf1691a.js.LICENSE.txt": "/static/js/dates.4cf1691a.js.LICENSE.txt",
-    "static/js/eventEditor.0f8c772d.js.LICENSE.txt": "/static/js/eventEditor.0f8c772d.js.LICENSE.txt",
-    "static/js/form.dcf0495f.js.LICENSE.txt": "/static/js/form.dcf0495f.js.LICENSE.txt",
-    "static/js/rem.3e9b4e68.js.LICENSE.txt": "/static/js/rem.3e9b4e68.js.LICENSE.txt",
-    "static/js/richTextEditor.05c59096.js.LICENSE.txt": "/static/js/richTextEditor.05c59096.js.LICENSE.txt",
-    "static/js/rruleGenerator.815f0ed7.js.LICENSE.txt": "/static/js/rruleGenerator.815f0ed7.js.LICENSE.txt",
-    "static/js/toaster.eb2f4269.js.LICENSE.txt": "/static/js/toaster.eb2f4269.js.LICENSE.txt",
-    "static/js/tpc.4dd2cf0e.js.LICENSE.txt": "/static/js/tpc.4dd2cf0e.js.LICENSE.txt",
-    "static/js/wpPluginsPage.5846ae99.js.LICENSE.txt": "/static/js/wpPluginsPage.5846ae99.js.LICENSE.txt"
+    "adapters.js": "/static/js/adapters.bundle.js",
+    "adapters.js.map": "/static/js/adapters.bundle.js.map",
+    "adapters.php": "/static/js/adapters.bundle.asset.php",
+    "blocks.js": "/static/js/blocks.bundle.js",
+    "blocks.js.map": "/static/js/blocks.bundle.js.map",
+    "blocks.php": "/static/js/blocks.bundle.asset.php",
+    "components.js": "/static/js/components.bundle.js",
+    "components.js.map": "/static/js/components.bundle.js.map",
+    "components.php": "/static/js/components.bundle.asset.php",
+    "constants.js": "/static/js/constants.bundle.js",
+    "constants.js.map": "/static/js/constants.bundle.js.map",
+    "constants.php": "/static/js/constants.bundle.asset.php",
+    "data.js": "/static/js/data.bundle.js",
+    "data.js.map": "/static/js/data.bundle.js.map",
+    "data.php": "/static/js/data.bundle.asset.php",
+    "dates.js": "/static/js/dates.bundle.js",
+    "dates.js.map": "/static/js/dates.bundle.js.map",
+    "dates.php": "/static/js/dates.bundle.asset.php",
+    "dates-card-view.js": "/static/js/dates-card-view.chunk.js",
+    "dates-card-view.js.map": "/static/js/dates-card-view.chunk.js.map",
+    "dates-table-view.js": "/static/js/dates-table-view.chunk.js",
+    "dates-table-view.js.map": "/static/js/dates-table-view.chunk.js.map",
+    "edtrServices.js": "/static/js/edtrServices.bundle.js",
+    "edtrServices.js.map": "/static/js/edtrServices.bundle.js.map",
+    "edtrServices.php": "/static/js/edtrServices.bundle.asset.php",
+    "eventEditor.js": "/static/js/eventEditor.bundle.js",
+    "eventEditor.js.map": "/static/js/eventEditor.bundle.js.map",
+    "eventEditor.php": "/static/js/eventEditor.bundle.asset.php",
+    "events.js": "/static/js/events.bundle.js",
+    "events.js.map": "/static/js/events.bundle.js.map",
+    "events.php": "/static/js/events.bundle.asset.php",
+    "form.js": "/static/js/form.bundle.js",
+    "form.js.map": "/static/js/form.bundle.js.map",
+    "form.php": "/static/js/form.bundle.asset.php",
+    "helpers.js": "/static/js/helpers.bundle.js",
+    "helpers.js.map": "/static/js/helpers.bundle.js.map",
+    "helpers.php": "/static/js/helpers.bundle.asset.php",
+    "hooks.js": "/static/js/hooks.bundle.js",
+    "hooks.js.map": "/static/js/hooks.bundle.js.map",
+    "hooks.php": "/static/js/hooks.bundle.asset.php",
+    "i18n.js": "/static/js/i18n.bundle.js",
+    "i18n.js.map": "/static/js/i18n.bundle.js.map",
+    "i18n.php": "/static/js/i18n.bundle.asset.php",
+    "predicates.js": "/static/js/predicates.bundle.js",
+    "predicates.js.map": "/static/js/predicates.bundle.js.map",
+    "predicates.php": "/static/js/predicates.bundle.asset.php",
+    "registry.js": "/static/js/registry.bundle.js",
+    "registry.js.map": "/static/js/registry.bundle.js.map",
+    "registry.php": "/static/js/registry.bundle.asset.php",
+    "rem.js": "/static/js/rem.bundle.js",
+    "rem.js.map": "/static/js/rem.bundle.js.map",
+    "rem.php": "/static/js/rem.bundle.asset.php",
+    "richTextEditor.js": "/static/js/richTextEditor.bundle.js",
+    "richTextEditor.js.map": "/static/js/richTextEditor.bundle.js.map",
+    "richTextEditor.php": "/static/js/richTextEditor.bundle.asset.php",
+    "rruleGenerator.js": "/static/js/rruleGenerator.bundle.js",
+    "rruleGenerator.js.map": "/static/js/rruleGenerator.bundle.js.map",
+    "rruleGenerator.php": "/static/js/rruleGenerator.bundle.asset.php",
+    "services.js": "/static/js/services.bundle.js",
+    "services.js.map": "/static/js/services.bundle.js.map",
+    "services.php": "/static/js/services.bundle.asset.php",
+    "storage.js": "/static/js/storage.bundle.js",
+    "storage.js.map": "/static/js/storage.bundle.js.map",
+    "storage.php": "/static/js/storage.bundle.asset.php",
+    "styles.js": "/static/js/styles.bundle.js",
+    "styles.js.map": "/static/js/styles.bundle.js.map",
+    "styles.php": "/static/js/styles.bundle.asset.php",
+    "tickets-card-view.js": "/static/js/tickets-card-view.chunk.js",
+    "tickets-card-view.js.map": "/static/js/tickets-card-view.chunk.js.map",
+    "tickets-table-view.js": "/static/js/tickets-table-view.chunk.js",
+    "tickets-table-view.js.map": "/static/js/tickets-table-view.chunk.js.map",
+    "toaster.js": "/static/js/toaster.bundle.js",
+    "toaster.js.map": "/static/js/toaster.bundle.js.map",
+    "toaster.php": "/static/js/toaster.bundle.asset.php",
+    "tpc.js": "/static/js/tpc.bundle.js",
+    "tpc.js.map": "/static/js/tpc.bundle.js.map",
+    "tpc.php": "/static/js/tpc.bundle.asset.php",
+    "utils.js": "/static/js/utils.bundle.js",
+    "utils.js.map": "/static/js/utils.bundle.js.map",
+    "utils.php": "/static/js/utils.bundle.asset.php",
+    "vendors~dates-table-view~tickets-table-view.js": "/static/js/vendors~dates-table-view~tickets-table-view.chunk.js",
+    "vendors~dates-table-view~tickets-table-view.js.map": "/static/js/vendors~dates-table-view~tickets-table-view.chunk.js.map",
+    "wpPluginsPage.js": "/static/js/wpPluginsPage.bundle.js",
+    "wpPluginsPage.js.map": "/static/js/wpPluginsPage.bundle.js.map",
+    "wpPluginsPage.php": "/static/js/wpPluginsPage.bundle.asset.php"
   },
   "entrypoints": {
     "adapters": [
-      "static/css/adapters.838b22b3.css",
-      "static/js/adapters.08815d4e.js"
+      "static/js/adapters.bundle.js"
     ],
     "components": [
-      "static/css/components.ab86571e.css",
-      "static/js/components.36a58beb.js"
+      "static/js/components.bundle.js"
     ],
     "constants": [
-      "static/js/constants.ce5c8972.js"
+      "static/js/constants.bundle.js"
     ],
     "data": [
-      "static/js/data.243c9333.js"
+      "static/js/data.bundle.js"
     ],
     "dates": [
-      "static/css/dates.1070384d.css",
-      "static/js/dates.4cf1691a.js"
+      "static/js/dates.bundle.js"
     ],
     "edtrServices": [
-      "static/js/edtrServices.8ea600cd.js"
+      "static/js/edtrServices.bundle.js"
     ],
     "events": [
-      "static/js/events.062fbb4c.js"
+      "static/js/events.bundle.js"
     ],
     "form": [
-      "static/css/form.16e57aea.css",
-      "static/js/form.dcf0495f.js"
+      "static/js/form.bundle.js"
     ],
     "helpers": [
-      "static/js/helpers.e68e4669.js"
+      "static/js/helpers.bundle.js"
     ],
     "hooks": [
-      "static/js/hooks.c96b94e5.js"
+      "static/js/hooks.bundle.js"
     ],
     "i18n": [
-      "static/js/i18n.33313a36.js"
+      "static/js/i18n.bundle.js"
     ],
     "predicates": [
-      "static/js/predicates.250b7fef.js"
+      "static/js/predicates.bundle.js"
     ],
     "registry": [
-      "static/js/registry.7cf24e4f.js"
+      "static/js/registry.bundle.js"
     ],
     "richTextEditor": [
-      "static/css/richTextEditor.9cace8fa.css",
-      "static/js/richTextEditor.05c59096.js"
+      "static/js/richTextEditor.bundle.js"
     ],
     "rruleGenerator": [
-      "static/css/rruleGenerator.c78e324b.css",
-      "static/js/rruleGenerator.815f0ed7.js"
+      "static/js/rruleGenerator.bundle.js"
     ],
     "services": [
-      "static/js/services.a9c40266.js"
+      "static/js/services.bundle.js"
     ],
     "storage": [
-      "static/js/storage.df677a95.js"
+      "static/js/storage.bundle.js"
     ],
     "styles": [
-      "static/js/styles.e146823c.js"
+      "static/js/styles.bundle.js"
     ],
     "toaster": [
-      "static/css/toaster.154f9f25.css",
-      "static/js/toaster.eb2f4269.js"
+      "static/js/toaster.bundle.js"
     ],
     "tpc": [
-      "static/css/tpc.8ef32303.css",
-      "static/js/tpc.4dd2cf0e.js"
+      "static/js/tpc.bundle.js"
     ],
     "utils": [
-      "static/js/utils.e9443891.js"
+      "static/js/utils.bundle.js"
     ],
     "blocks": [
-      "static/css/blocks.2f5a366a.css",
-      "static/js/blocks.181915fe.js"
+      "static/js/blocks.bundle.js"
     ],
     "eventEditor": [
-      "static/css/eventEditor.a86ebfe4.css",
-      "static/js/eventEditor.0f8c772d.js"
+      "static/js/eventEditor.bundle.js"
     ],
     "rem": [
-      "static/css/rem.c77b1b1f.css",
-      "static/js/rem.3e9b4e68.js"
+      "static/js/rem.bundle.js"
     ],
     "wpPluginsPage": [
-      "static/css/wpPluginsPage.880a0b20.css",
-      "static/js/wpPluginsPage.5846ae99.js"
+      "static/js/wpPluginsPage.bundle.js"
     ]
   }
 }
